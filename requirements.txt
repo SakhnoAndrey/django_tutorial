@@ -1,4 +1,4 @@
-Django==3.0.7
+Django==3.1.13
 black==19.10b0
 pytz==2020.1
 django-environ==0.4.5
